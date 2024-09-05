@@ -1,3 +1,3 @@
 2-d physics rogue-lite platformer shooter
 
-https://landgreen.github.io/n-gon/
+This defintiely not a copy of n-gon for gaming on school devices
